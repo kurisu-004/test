@@ -1,0 +1,3 @@
+/home/pibotvm/test/build/CMakeFiles/edit_cache.dir
+/home/pibotvm/test/build/CMakeFiles/rebuild_cache.dir
+/home/pibotvm/test/build/CMakeFiles/opencv_test.dir

@@ -4,6 +4,7 @@
 main()
 {
     printf("hello");
+    printf("try to use vim");
 
     printf("ubuntu");
 
