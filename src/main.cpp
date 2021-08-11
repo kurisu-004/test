@@ -22,6 +22,9 @@ int main(int argc, char **argv)
     namedWindow(windowName);
     imshow(windowName, image);
     waitKey();
+    
+    cout << "shut down" << endl;
+
     destroyAllWindows();
     return 0;
 }
